@@ -42,8 +42,6 @@
 ## 📊 Github 활동 내역
 
 - ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JM030220&theme=github)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JM030220&show_icons=true&theme=radical)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM030220&layout=compact&theme=radical)
 - ![Trophy](https://github-profile-trophy.vercel.app/?username=JM030220&theme=darkhub)
 - 참여 중인 오픈소스 프로젝트:
   - [BodyBuddy](https://github.com/djswn/BodyBuddy) – 헬스케어 및 다이어트 관리 오픈소스 프로젝트
